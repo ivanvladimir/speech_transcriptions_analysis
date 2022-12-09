@@ -7,11 +7,13 @@
 This notebook was developed using [Jupyter lab](https://jupyter.org/install) so
 we recommend to install it
 
+   
    pip install jupyterlab
 
 
 Once installed you have to install the libraries using the notebook:
 
+   
    install_librareis.ipynb
 
 
